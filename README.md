@@ -29,3 +29,7 @@ install requirements:
 run tests:
 
 `python main.py`
+
+![screencast](https://raw.githubusercontent.com/leoossa/antycaptcha_amberteam/main/screencast.gif)
+
+
